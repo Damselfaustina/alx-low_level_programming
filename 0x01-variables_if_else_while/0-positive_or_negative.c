@@ -14,7 +14,7 @@ int main (void)
 		n = rand() - RAND_MAX / 2;
 		last = n % 10;
 		if (last > 5)
-		{	
+		{
 			printf("%d is positive\n", n);
 		}
 		else if (last < 6 && last != 0)
