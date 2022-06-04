@@ -1,17 +1,17 @@
 #include <stdio.h>
 /**
- * main - Entry
+ * main - Entry point
  *
- * Return; 0 (Success)
+ * Return: 0 (Success)
  */
-int main(void
+int main(void)
 {
 	char c = 'a';
 	int i = 0;
-	
+
 	while (i < 26)
 	{
-		putchar(c + i);)
+		putchar(c + i);
 		i++;
 	}
 	putchar(10);
