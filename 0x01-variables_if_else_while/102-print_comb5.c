@@ -2,11 +2,13 @@
 /**
  * main - main block
  *
- * Return: 0
+ * Return: 0 (Success)
  */
 int main(void)
 {
 	int a, b, c, d, i, j;
+
+	for (i = 0; i < 100; i++)
 	{
 		a = i / 10;
 		b = i % 10;
