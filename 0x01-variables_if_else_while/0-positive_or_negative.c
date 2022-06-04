@@ -6,8 +6,7 @@
  *
  * Return: 0 (Sucxess)
  */
-int main (void)
-{
+int main (void){
 		int n, last;
 
 		srand(time(0));
