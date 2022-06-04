@@ -4,6 +4,7 @@
  *
  * Return: 0 (Success)
  */
+int main(void)
 {
 	char c = 'z';
 	int i = 0;
