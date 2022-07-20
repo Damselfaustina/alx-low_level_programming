@@ -58,8 +58,4 @@ size_t print_listint_safe(const listint_t *head)
 	}
 	free(list);
 	return (num);
-<<<<<<< HEAD
 }
-=======
-
->>>>>>> e71b238d55c0e074200d38cf2b6ba0d31e224e52
